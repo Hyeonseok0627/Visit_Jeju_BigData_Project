@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1b59857d524cb87ca2d4168d2315d17c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1b59857d524cb87ca2d4168d2315d17c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1b59857d524cb87ca2d4168d2315d17c = L.map(
+                "map_1b59857d524cb87ca2d4168d2315d17c",
+                {
+                    center: [33.3891, 126.5463],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 11,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f261652802c7f555077dfc8aa9735eb9 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_f261652802c7f555077dfc8aa9735eb9.addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var marker_f8c3fb4f024f346a8c72e149d6ebf2fc = L.marker(
+                [33.4854889, 126.4910047],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_7e9b1619547ba3ece806b3f8c6ca3e53 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f8c3fb4f024f346a8c72e149d6ebf2fc.setIcon(icon_7e9b1619547ba3ece806b3f8c6ca3e53);
+        
+    
+        var popup_1b70e6ffc70beb701093dec257082a47 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0331d4d6597f3eb25673b65aa7a46e73 = $(`<div id="html_0331d4d6597f3eb25673b65aa7a46e73" style="width: 100.0%; height: 100.0%;">신라스테이제주</div>`)[0];
+                popup_1b70e6ffc70beb701093dec257082a47.setContent(html_0331d4d6597f3eb25673b65aa7a46e73);
+            
+        
+
+        marker_f8c3fb4f024f346a8c72e149d6ebf2fc.bindPopup(popup_1b70e6ffc70beb701093dec257082a47)
+        ;
+
+        
+    
+    
+            var marker_f81403ada250a17591ac83df7d471fd8 = L.marker(
+                [33.2465497, 126.5818708],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_256c422e40c97be13281561f0060f677 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f81403ada250a17591ac83df7d471fd8.setIcon(icon_256c422e40c97be13281561f0060f677);
+        
+    
+        var popup_a0e588fa14097b9297da0b66b6cb6414 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a4d38cf740ea51290cbfb40df47c0d60 = $(`<div id="html_a4d38cf740ea51290cbfb40df47c0d60" style="width: 100.0%; height: 100.0%;">서귀포칼호텔</div>`)[0];
+                popup_a0e588fa14097b9297da0b66b6cb6414.setContent(html_a4d38cf740ea51290cbfb40df47c0d60);
+            
+        
+
+        marker_f81403ada250a17591ac83df7d471fd8.bindPopup(popup_a0e588fa14097b9297da0b66b6cb6414)
+        ;
+
+        
+    
+    
+            var marker_a13670da97351fce9bd03dee68ed3eec = L.marker(
+                [33.4905955, 126.4864277],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_ad48b9e091068019c55c1840fbc3734a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a13670da97351fce9bd03dee68ed3eec.setIcon(icon_ad48b9e091068019c55c1840fbc3734a);
+        
+    
+        var popup_e96b01b02bb67251935bd2c26f6cd446 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c477f9ec087f0198f5fb37ce32f0b9a3 = $(`<div id="html_c477f9ec087f0198f5fb37ce32f0b9a3" style="width: 100.0%; height: 100.0%;">롯데시티호텔제주</div>`)[0];
+                popup_e96b01b02bb67251935bd2c26f6cd446.setContent(html_c477f9ec087f0198f5fb37ce32f0b9a3);
+            
+        
+
+        marker_a13670da97351fce9bd03dee68ed3eec.bindPopup(popup_e96b01b02bb67251935bd2c26f6cd446)
+        ;
+
+        
+    
+    
+            var marker_06ae4f1cb2c4fcc2b52606825498c654 = L.marker(
+                [33.5176293, 126.5267886],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_870c9be355689c5e8a1b941b8d3309ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_06ae4f1cb2c4fcc2b52606825498c654.setIcon(icon_870c9be355689c5e8a1b941b8d3309ed);
+        
+    
+        var popup_04ac7d3df00073c66c5b0f1eacdd2687 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f6e5bc6dd073ac81f07a749acf83ba98 = $(`<div id="html_f6e5bc6dd073ac81f07a749acf83ba98" style="width: 100.0%; height: 100.0%;">호텔리젠트마린</div>`)[0];
+                popup_04ac7d3df00073c66c5b0f1eacdd2687.setContent(html_f6e5bc6dd073ac81f07a749acf83ba98);
+            
+        
+
+        marker_06ae4f1cb2c4fcc2b52606825498c654.bindPopup(popup_04ac7d3df00073c66c5b0f1eacdd2687)
+        ;
+
+        
+    
+    
+            var marker_eed2784a374b3e9249105a7f1122a277 = L.marker(
+                [33.4934657, 126.5343138],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_14838e1b15a6af90445ee1f759345068 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_eed2784a374b3e9249105a7f1122a277.setIcon(icon_14838e1b15a6af90445ee1f759345068);
+        
+    
+        var popup_3d7b5365bc3f3c088448a74143ff4f54 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_baf8ef80a3ce630394cbf52dd16146c4 = $(`<div id="html_baf8ef80a3ce630394cbf52dd16146c4" style="width: 100.0%; height: 100.0%;">라마다제주시티홀호텔</div>`)[0];
+                popup_3d7b5365bc3f3c088448a74143ff4f54.setContent(html_baf8ef80a3ce630394cbf52dd16146c4);
+            
+        
+
+        marker_eed2784a374b3e9249105a7f1122a277.bindPopup(popup_3d7b5365bc3f3c088448a74143ff4f54)
+        ;
+
+        
+    
+    
+            var marker_78590a1c09ad923eba634381f4665f0a = L.marker(
+                [33.4877957, 126.4818957],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_448f831429db1f5b2ea265364e1a4ff6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_78590a1c09ad923eba634381f4665f0a.setIcon(icon_448f831429db1f5b2ea265364e1a4ff6);
+        
+    
+        var popup_fed2a118be0134b88f33766d58e3a494 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b96c0be549e794e1aa0fcde72ef8ea9a = $(`<div id="html_b96c0be549e794e1aa0fcde72ef8ea9a" style="width: 100.0%; height: 100.0%;">베스트웨스턴제주호텔</div>`)[0];
+                popup_fed2a118be0134b88f33766d58e3a494.setContent(html_b96c0be549e794e1aa0fcde72ef8ea9a);
+            
+        
+
+        marker_78590a1c09ad923eba634381f4665f0a.bindPopup(popup_fed2a118be0134b88f33766d58e3a494)
+        ;
+
+        
+    
+    
+            var marker_15404e69d85eee105548781062404a0b = L.marker(
+                [33.5173509, 126.5278],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_529c3f1cea9a845ec0c052d7db75e44f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_15404e69d85eee105548781062404a0b.setIcon(icon_529c3f1cea9a845ec0c052d7db75e44f);
+        
+    
+        var popup_ffb339c0d3594e33595f137f6cc30914 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0a020365ab18b72271d15dd5792d2cc7 = $(`<div id="html_0a020365ab18b72271d15dd5792d2cc7" style="width: 100.0%; height: 100.0%;">호텔휘슬락</div>`)[0];
+                popup_ffb339c0d3594e33595f137f6cc30914.setContent(html_0a020365ab18b72271d15dd5792d2cc7);
+            
+        
+
+        marker_15404e69d85eee105548781062404a0b.bindPopup(popup_ffb339c0d3594e33595f137f6cc30914)
+        ;
+
+        
+    
+    
+            var marker_c49d35b47614caba16a2cea484c151b6 = L.marker(
+                [33.4458341, 126.5478944],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_1ba35039f68766be870514b6a8bd9f0c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c49d35b47614caba16a2cea484c151b6.setIcon(icon_1ba35039f68766be870514b6a8bd9f0c);
+        
+    
+        var popup_949fdb77400a113e4f45a7bcbecc1274 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_131f3d39a9d198c9443085e9e076aa73 = $(`<div id="html_131f3d39a9d198c9443085e9e076aa73" style="width: 100.0%; height: 100.0%;">호텔난타</div>`)[0];
+                popup_949fdb77400a113e4f45a7bcbecc1274.setContent(html_131f3d39a9d198c9443085e9e076aa73);
+            
+        
+
+        marker_c49d35b47614caba16a2cea484c151b6.bindPopup(popup_949fdb77400a113e4f45a7bcbecc1274)
+        ;
+
+        
+    
+    
+            var marker_6fcc15f3861681d53c85e3e94d5d7b99 = L.marker(
+                [33.4900625, 126.4926875],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_c83da063aafc1da582c4b6fad042269d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6fcc15f3861681d53c85e3e94d5d7b99.setIcon(icon_c83da063aafc1da582c4b6fad042269d);
+        
+    
+        var popup_946f96e44c1ff1da3e5acfeab1467187 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_42cacb465c50e13da1030efd1ef7480b = $(`<div id="html_42cacb465c50e13da1030efd1ef7480b" style="width: 100.0%; height: 100.0%;">글로스터호텔제주</div>`)[0];
+                popup_946f96e44c1ff1da3e5acfeab1467187.setContent(html_42cacb465c50e13da1030efd1ef7480b);
+            
+        
+
+        marker_6fcc15f3861681d53c85e3e94d5d7b99.bindPopup(popup_946f96e44c1ff1da3e5acfeab1467187)
+        ;
+
+        
+    
+    
+            var marker_6c00438ed63fe618a730a282e1e07ab8 = L.marker(
+                [33.4491938, 126.9165127],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_c290067e3ce66b50fa8388dcd9a3de25 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6c00438ed63fe618a730a282e1e07ab8.setIcon(icon_c290067e3ce66b50fa8388dcd9a3de25);
+        
+    
+        var popup_9e939d8086e1b4201e2288c33749fc94 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2bb2e91a909917fce55662e9bd5dd148 = $(`<div id="html_2bb2e91a909917fce55662e9bd5dd148" style="width: 100.0%; height: 100.0%;">더베스트제주성산</div>`)[0];
+                popup_9e939d8086e1b4201e2288c33749fc94.setContent(html_2bb2e91a909917fce55662e9bd5dd148);
+            
+        
+
+        marker_6c00438ed63fe618a730a282e1e07ab8.bindPopup(popup_9e939d8086e1b4201e2288c33749fc94)
+        ;
+
+        
+    
+    
+            var marker_b788611403d6e512f5c207167ad06f75 = L.marker(
+                [33.4933987, 126.4909571],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_fd4d783caa41e0bcf1d86c460e800529 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b788611403d6e512f5c207167ad06f75.setIcon(icon_fd4d783caa41e0bcf1d86c460e800529);
+        
+    
+        var popup_512231f46d557fc5156af255065319d6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ca4d342f3cf97750345c027ef3c4eaa0 = $(`<div id="html_ca4d342f3cf97750345c027ef3c4eaa0" style="width: 100.0%; height: 100.0%;">호텔시리우스제주</div>`)[0];
+                popup_512231f46d557fc5156af255065319d6.setContent(html_ca4d342f3cf97750345c027ef3c4eaa0);
+            
+        
+
+        marker_b788611403d6e512f5c207167ad06f75.bindPopup(popup_512231f46d557fc5156af255065319d6)
+        ;
+
+        
+    
+    
+            var marker_2b6d563044e35987565da63cb2728e69 = L.marker(
+                [33.2492258, 126.567572],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_5b1df8833ea9ed622228ca1c53a23bc2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2b6d563044e35987565da63cb2728e69.setIcon(icon_5b1df8833ea9ed622228ca1c53a23bc2);
+        
+    
+        var popup_ba8ecf46371cd89193f0809a199b45f4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4dd4c4ef8caa26840aba1be714039df3 = $(`<div id="html_4dd4c4ef8caa26840aba1be714039df3" style="width: 100.0%; height: 100.0%;">골든데이지호텔제주서귀포오션</div>`)[0];
+                popup_ba8ecf46371cd89193f0809a199b45f4.setContent(html_4dd4c4ef8caa26840aba1be714039df3);
+            
+        
+
+        marker_2b6d563044e35987565da63cb2728e69.bindPopup(popup_ba8ecf46371cd89193f0809a199b45f4)
+        ;
+
+        
+    
+    
+            var marker_958ffd9c0584f70d5584964607a19f75 = L.marker(
+                [33.2460441, 126.5623037],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_958a9ae3c0e5db009f1eb974db458aa6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_958ffd9c0584f70d5584964607a19f75.setIcon(icon_958a9ae3c0e5db009f1eb974db458aa6);
+        
+    
+        var popup_0a1d1d0f0dc0ce387ee839ecabeb2def = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d5807d534eeaebdbda975fbde9b69062 = $(`<div id="html_d5807d534eeaebdbda975fbde9b69062" style="width: 100.0%; height: 100.0%;">제주오션팰리스호텔</div>`)[0];
+                popup_0a1d1d0f0dc0ce387ee839ecabeb2def.setContent(html_d5807d534eeaebdbda975fbde9b69062);
+            
+        
+
+        marker_958ffd9c0584f70d5584964607a19f75.bindPopup(popup_0a1d1d0f0dc0ce387ee839ecabeb2def)
+        ;
+
+        
+    
+    
+            var marker_caae36ad6573ceab0d9319005754ff49 = L.marker(
+                [33.2655138, 126.4841241],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_797d2bd3aaa273d11d0fc35af5970b3d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_caae36ad6573ceab0d9319005754ff49.setIcon(icon_797d2bd3aaa273d11d0fc35af5970b3d);
+        
+    
+        var popup_f32c3bab726feac87040eb98676dd534 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0d8d11dc7a129e698eb6d236df0d1a69 = $(`<div id="html_0d8d11dc7a129e698eb6d236df0d1a69" style="width: 100.0%; height: 100.0%;">토스카나호텔제주</div>`)[0];
+                popup_f32c3bab726feac87040eb98676dd534.setContent(html_0d8d11dc7a129e698eb6d236df0d1a69);
+            
+        
+
+        marker_caae36ad6573ceab0d9319005754ff49.bindPopup(popup_f32c3bab726feac87040eb98676dd534)
+        ;
+
+        
+    
+    
+            var marker_10cda6cfaea31eb333170e0861edfc48 = L.marker(
+                [33.5182319, 126.5231737],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_d3b19594a55c2531c18e2db76822ad2c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_10cda6cfaea31eb333170e0861edfc48.setIcon(icon_d3b19594a55c2531c18e2db76822ad2c);
+        
+    
+        var popup_d9954d34e28030d5500b0aa14b930f07 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_45a72ddfe6ab5d21d8161e62cd82b62b = $(`<div id="html_45a72ddfe6ab5d21d8161e62cd82b62b" style="width: 100.0%; height: 100.0%;">오션스위츠제주호텔</div>`)[0];
+                popup_d9954d34e28030d5500b0aa14b930f07.setContent(html_45a72ddfe6ab5d21d8161e62cd82b62b);
+            
+        
+
+        marker_10cda6cfaea31eb333170e0861edfc48.bindPopup(popup_d9954d34e28030d5500b0aa14b930f07)
+        ;
+
+        
+    
+    
+            var marker_ea299543bdb3147916f85ba44e3c6167 = L.marker(
+                [33.4520237, 126.9144746],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_7856200f2bfdeacc49659cdd2f77c3d8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ea299543bdb3147916f85ba44e3c6167.setIcon(icon_7856200f2bfdeacc49659cdd2f77c3d8);
+        
+    
+        var popup_4f46f75323988a28d8b074b43c3be8e7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_52f586264b17ba3bf53bf90ec113788a = $(`<div id="html_52f586264b17ba3bf53bf90ec113788a" style="width: 100.0%; height: 100.0%;">브라운스위트제주호텔앤리조트</div>`)[0];
+                popup_4f46f75323988a28d8b074b43c3be8e7.setContent(html_52f586264b17ba3bf53bf90ec113788a);
+            
+        
+
+        marker_ea299543bdb3147916f85ba44e3c6167.bindPopup(popup_4f46f75323988a28d8b074b43c3be8e7)
+        ;
+
+        
+    
+    
+            var marker_b92a9cc39a8ee115ee4817cd38cfba91 = L.marker(
+                [33.2861399, 126.4442086],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_fbda19b05f923f6a22df4f5adc2c767b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b92a9cc39a8ee115ee4817cd38cfba91.setIcon(icon_fbda19b05f923f6a22df4f5adc2c767b);
+        
+    
+        var popup_3a97fb2bd9ba5b4018b8ae9c02d3e121 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_154afbe7a509a056d8a6ec71ffe98a45 = $(`<div id="html_154afbe7a509a056d8a6ec71ffe98a45" style="width: 100.0%; height: 100.0%;">WE호텔</div>`)[0];
+                popup_3a97fb2bd9ba5b4018b8ae9c02d3e121.setContent(html_154afbe7a509a056d8a6ec71ffe98a45);
+            
+        
+
+        marker_b92a9cc39a8ee115ee4817cd38cfba91.bindPopup(popup_3a97fb2bd9ba5b4018b8ae9c02d3e121)
+        ;
+
+        
+    
+    
+            var marker_3f76be2e38785ac31bbef18d34c9122c = L.marker(
+                [33.2744833, 126.6590002],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_eb124a3547163f28fe57072319d15ac5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3f76be2e38785ac31bbef18d34c9122c.setIcon(icon_eb124a3547163f28fe57072319d15ac5);
+        
+    
+        var popup_9394e10980d0b85f6f25585282dedc11 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f621b5e0aea1eb2564cca736a3ab9498 = $(`<div id="html_f621b5e0aea1eb2564cca736a3ab9498" style="width: 100.0%; height: 100.0%;">코업시티호텔하버뷰</div>`)[0];
+                popup_9394e10980d0b85f6f25585282dedc11.setContent(html_f621b5e0aea1eb2564cca736a3ab9498);
+            
+        
+
+        marker_3f76be2e38785ac31bbef18d34c9122c.bindPopup(popup_9394e10980d0b85f6f25585282dedc11)
+        ;
+
+        
+    
+    
+            var marker_d3afafc7d7952114a217dccb039435b1 = L.marker(
+                [33.2328352, 126.5105109],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_499c3d83fb7de72ca13d547f35978c13 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d3afafc7d7952114a217dccb039435b1.setIcon(icon_499c3d83fb7de72ca13d547f35978c13);
+        
+    
+        var popup_d4900ee1b1aef13bc57878db0e36446c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b996d282c74f533a6470a84093fef1ce = $(`<div id="html_b996d282c74f533a6470a84093fef1ce" style="width: 100.0%; height: 100.0%;">더그랜드섬오름</div>`)[0];
+                popup_d4900ee1b1aef13bc57878db0e36446c.setContent(html_b996d282c74f533a6470a84093fef1ce);
+            
+        
+
+        marker_d3afafc7d7952114a217dccb039435b1.bindPopup(popup_d4900ee1b1aef13bc57878db0e36446c)
+        ;
+
+        
+    
+    
+            var marker_80fe1ab917caf055ecca1ac7c9925d94 = L.marker(
+                [33.492444, 126.4286588],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_a18f3d7122f5f0a0904133f84842a063 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_80fe1ab917caf055ecca1ac7c9925d94.setIcon(icon_a18f3d7122f5f0a0904133f84842a063);
+        
+    
+        var popup_7a767fb13ff91c4c60b639cad8a89c72 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0743e1537a4f28dff29250c6c1ca5ac2 = $(`<div id="html_0743e1537a4f28dff29250c6c1ca5ac2" style="width: 100.0%; height: 100.0%;">그라벨호텔제주</div>`)[0];
+                popup_7a767fb13ff91c4c60b639cad8a89c72.setContent(html_0743e1537a4f28dff29250c6c1ca5ac2);
+            
+        
+
+        marker_80fe1ab917caf055ecca1ac7c9925d94.bindPopup(popup_7a767fb13ff91c4c60b639cad8a89c72)
+        ;
+
+        
+    
+    
+            var marker_4f7cd049af6866a77a74d2896bd5d56e = L.marker(
+                [33.2475894, 126.5668712],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_359e1adc94f981f78f886f52bec046b1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4f7cd049af6866a77a74d2896bd5d56e.setIcon(icon_359e1adc94f981f78f886f52bec046b1);
+        
+    
+        var popup_7f271db17d0c0398d04f3cdd1bd89ad6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ea7a01dacf8835393cdad92f07b9ab4 = $(`<div id="html_1ea7a01dacf8835393cdad92f07b9ab4" style="width: 100.0%; height: 100.0%;">퍼스트70호텔</div>`)[0];
+                popup_7f271db17d0c0398d04f3cdd1bd89ad6.setContent(html_1ea7a01dacf8835393cdad92f07b9ab4);
+            
+        
+
+        marker_4f7cd049af6866a77a74d2896bd5d56e.bindPopup(popup_7f271db17d0c0398d04f3cdd1bd89ad6)
+        ;
+
+        
+    
+    
+            var marker_86766aeb9d369334ff0bbc235576d956 = L.marker(
+                [33.2495146, 126.5576159],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_6cc486a8f7318a250377b77695e1402b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_86766aeb9d369334ff0bbc235576d956.setIcon(icon_6cc486a8f7318a250377b77695e1402b);
+        
+    
+        var popup_c98ea7387f6dc6519676fb07656a9536 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_72061717f7d73ebb4d1e69f045ed3e8b = $(`<div id="html_72061717f7d73ebb4d1e69f045ed3e8b" style="width: 100.0%; height: 100.0%;">신신호텔천지연점</div>`)[0];
+                popup_c98ea7387f6dc6519676fb07656a9536.setContent(html_72061717f7d73ebb4d1e69f045ed3e8b);
+            
+        
+
+        marker_86766aeb9d369334ff0bbc235576d956.bindPopup(popup_c98ea7387f6dc6519676fb07656a9536)
+        ;
+
+        
+    
+    
+            var marker_5911d9f764f8a944ccb4a3287a9231f6 = L.marker(
+                [33.4479486, 126.9162124],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_32da7136e5326cd4e2040788122d6182 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5911d9f764f8a944ccb4a3287a9231f6.setIcon(icon_32da7136e5326cd4e2040788122d6182);
+        
+    
+        var popup_e4d52c22669b8cb7bcd9338c927fb217 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cfd73f45f937fdd3031db7a56835cecb = $(`<div id="html_cfd73f45f937fdd3031db7a56835cecb" style="width: 100.0%; height: 100.0%;">골든튤립제주성산호텔</div>`)[0];
+                popup_e4d52c22669b8cb7bcd9338c927fb217.setContent(html_cfd73f45f937fdd3031db7a56835cecb);
+            
+        
+
+        marker_5911d9f764f8a944ccb4a3287a9231f6.bindPopup(popup_e4d52c22669b8cb7bcd9338c927fb217)
+        ;
+
+        
+    
+    
+            var marker_17fd85c1fdcc6cb7962191b15979ebe8 = L.marker(
+                [33.2513598, 126.510362],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_44bd346d1412e71b3a0e7d504ba8df67 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_17fd85c1fdcc6cb7962191b15979ebe8.setIcon(icon_44bd346d1412e71b3a0e7d504ba8df67);
+        
+    
+        var popup_7597cd3b832f918332d460912be0f912 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cccffafa5232392aa251b25eed8735bc = $(`<div id="html_cccffafa5232392aa251b25eed8735bc" style="width: 100.0%; height: 100.0%;">서귀포JS호텔</div>`)[0];
+                popup_7597cd3b832f918332d460912be0f912.setContent(html_cccffafa5232392aa251b25eed8735bc);
+            
+        
+
+        marker_17fd85c1fdcc6cb7962191b15979ebe8.bindPopup(popup_7597cd3b832f918332d460912be0f912)
+        ;
+
+        
+    
+    
+            var marker_e8a082ffb6f014b4d795c00627918918 = L.marker(
+                [33.2438391, 126.5060017],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_b493f7a7c48254900d8057444cd50253 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e8a082ffb6f014b4d795c00627918918.setIcon(icon_b493f7a7c48254900d8057444cd50253);
+        
+    
+        var popup_c4ce9304aef18bc0803a03435be5827d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_24ed055f1041223be09e44e8a2614ba4 = $(`<div id="html_24ed055f1041223be09e44e8a2614ba4" style="width: 100.0%; height: 100.0%;">신신호텔제주월드컵점</div>`)[0];
+                popup_c4ce9304aef18bc0803a03435be5827d.setContent(html_24ed055f1041223be09e44e8a2614ba4);
+            
+        
+
+        marker_e8a082ffb6f014b4d795c00627918918.bindPopup(popup_c4ce9304aef18bc0803a03435be5827d)
+        ;
+
+        
+    
+    
+            var marker_9dec54a919b2a61306765d236735c986 = L.marker(
+                [33.4500452, 126.9184399],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_cbd0905905764c2e13b6367552e791e1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9dec54a919b2a61306765d236735c986.setIcon(icon_cbd0905905764c2e13b6367552e791e1);
+        
+    
+        var popup_109af3791043336c10f82414aefd93a6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aff4a7a51b9baf7eb1cdbceb1ac097cd = $(`<div id="html_aff4a7a51b9baf7eb1cdbceb1ac097cd" style="width: 100.0%; height: 100.0%;">플레이스캠프제주</div>`)[0];
+                popup_109af3791043336c10f82414aefd93a6.setContent(html_aff4a7a51b9baf7eb1cdbceb1ac097cd);
+            
+        
+
+        marker_9dec54a919b2a61306765d236735c986.bindPopup(popup_109af3791043336c10f82414aefd93a6)
+        ;
+
+        
+    
+    
+            var marker_306cff2593d4dd712addaab7ace8d6f0 = L.marker(
+                [33.5423291, 126.6661651],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_67a00ba698a9fe065c68cd21ff73caeb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_306cff2593d4dd712addaab7ace8d6f0.setIcon(icon_67a00ba698a9fe065c68cd21ff73caeb);
+        
+    
+        var popup_ed6ddac52076fc7d48f250340347ad74 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f5debde8ffd2d83027c326918665437b = $(`<div id="html_f5debde8ffd2d83027c326918665437b" style="width: 100.0%; height: 100.0%;">유탑유블레스호텔제주</div>`)[0];
+                popup_ed6ddac52076fc7d48f250340347ad74.setContent(html_f5debde8ffd2d83027c326918665437b);
+            
+        
+
+        marker_306cff2593d4dd712addaab7ace8d6f0.bindPopup(popup_ed6ddac52076fc7d48f250340347ad74)
+        ;
+
+        
+    
+    
+            var marker_578babfc9ca36332669d86edc1f3f658 = L.marker(
+                [33.2434345, 126.553327],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_5d9f268a3eba237949018fb6135aa560 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_578babfc9ca36332669d86edc1f3f658.setIcon(icon_5d9f268a3eba237949018fb6135aa560);
+        
+    
+        var popup_5ceeee774bf3df8e7100c3c5781f31fb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5e2aace56d223318fdc897fd293deea2 = $(`<div id="html_5e2aace56d223318fdc897fd293deea2" style="width: 100.0%; height: 100.0%;">파크선샤인제주</div>`)[0];
+                popup_5ceeee774bf3df8e7100c3c5781f31fb.setContent(html_5e2aace56d223318fdc897fd293deea2);
+            
+        
+
+        marker_578babfc9ca36332669d86edc1f3f658.bindPopup(popup_5ceeee774bf3df8e7100c3c5781f31fb)
+        ;
+
+        
+    
+    
+            var marker_61ec8de115df7fc35f8b25d5c1f44d40 = L.marker(
+                [33.4725009, 126.3504542],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_c6475ea6414efac9657e78628262f48e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_61ec8de115df7fc35f8b25d5c1f44d40.setIcon(icon_c6475ea6414efac9657e78628262f48e);
+        
+    
+        var popup_84318b135c361abf67ba6b97b0c61b4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e40b8213cf36e5c25bd29a7e29d9fede = $(`<div id="html_e40b8213cf36e5c25bd29a7e29d9fede" style="width: 100.0%; height: 100.0%;">다인오세아노호텔</div>`)[0];
+                popup_84318b135c361abf67ba6b97b0c61b4e.setContent(html_e40b8213cf36e5c25bd29a7e29d9fede);
+            
+        
+
+        marker_61ec8de115df7fc35f8b25d5c1f44d40.bindPopup(popup_84318b135c361abf67ba6b97b0c61b4e)
+        ;
+
+        
+    
+    
+            var marker_7a18a53e3c83979749355294038a5b4e = L.marker(
+                [33.4867872, 126.3918034],
+                {}
+            ).addTo(map_1b59857d524cb87ca2d4168d2315d17c);
+        
+    
+            var icon_c72bec059c7ea2de1e2347fa5dad68ec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_7a18a53e3c83979749355294038a5b4e.setIcon(icon_c72bec059c7ea2de1e2347fa5dad68ec);
+        
+    
+        var popup_15951748d69c4657bd9d31aa495ae489 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_47b06d2cefc7c8861ab2847a70541083 = $(`<div id="html_47b06d2cefc7c8861ab2847a70541083" style="width: 100.0%; height: 100.0%;">탐라스테이호텔제주</div>`)[0];
+                popup_15951748d69c4657bd9d31aa495ae489.setContent(html_47b06d2cefc7c8861ab2847a70541083);
+            
+        
+
+        marker_7a18a53e3c83979749355294038a5b4e.bindPopup(popup_15951748d69c4657bd9d31aa495ae489)
+        ;
+
+        
+    
+</script>
+</html>
