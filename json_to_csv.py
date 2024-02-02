@@ -20,4 +20,4 @@ def convert_json_to_csv(json_file_path, csv_file_path):
     print(f"JSON data from {json_file_path} has been converted to CSV format in {csv_file_path}")
 
 # 함수 호출
-convert_json_to_csv('combined_data.txt', 'output.csv')
+convert_json_to_csv('combined_data.txt', 'output11.csv')
