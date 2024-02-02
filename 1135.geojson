@@ -1,0 +1,5026 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-30T16:01:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29704610",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3335636,
+            33.2988058
+          ],
+          [
+            126.3333151,
+            33.2985698
+          ],
+          [
+            126.332944,
+            33.2981994
+          ],
+          [
+            126.3326014,
+            33.297842
+          ],
+          [
+            126.3323998,
+            33.2976622
+          ],
+          [
+            126.3315854,
+            33.2966596
+          ],
+          [
+            126.331327,
+            33.2963195
+          ],
+          [
+            126.3310922,
+            33.2959864
+          ],
+          [
+            126.3307136,
+            33.2954222
+          ],
+          [
+            126.3302211,
+            33.2946329
+          ]
+        ]
+      },
+      "id": "way/29704610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42434258",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3597154,
+            33.3520878
+          ],
+          [
+            126.3599684,
+            33.3528966
+          ],
+          [
+            126.3602762,
+            33.3538474
+          ],
+          [
+            126.3606993,
+            33.3549227
+          ],
+          [
+            126.3610031,
+            33.3556171
+          ],
+          [
+            126.3614964,
+            33.356538
+          ],
+          [
+            126.3621295,
+            33.3576111
+          ],
+          [
+            126.362811,
+            33.3586192
+          ],
+          [
+            126.3637725,
+            33.3599854
+          ],
+          [
+            126.3643628,
+            33.3608529
+          ],
+          [
+            126.3651266,
+            33.3619682
+          ],
+          [
+            126.3661835,
+            33.363499
+          ],
+          [
+            126.3664504,
+            33.3638795
+          ],
+          [
+            126.3667174,
+            33.3643005
+          ],
+          [
+            126.3668378,
+            33.3645134
+          ],
+          [
+            126.3670561,
+            33.3648994
+          ],
+          [
+            126.3671782,
+            33.3651244
+          ],
+          [
+            126.3672872,
+            33.3653485
+          ],
+          [
+            126.3674969,
+            33.3657944
+          ],
+          [
+            126.367811,
+            33.3665864
+          ],
+          [
+            126.3680104,
+            33.3672274
+          ],
+          [
+            126.3681337,
+            33.3676943
+          ],
+          [
+            126.3682664,
+            33.3682782
+          ],
+          [
+            126.3684264,
+            33.3693077
+          ],
+          [
+            126.3685277,
+            33.3700562
+          ],
+          [
+            126.3686,
+            33.3706807
+          ],
+          [
+            126.3686085,
+            33.3707543
+          ],
+          [
+            126.3686603,
+            33.3710252
+          ],
+          [
+            126.3687625,
+            33.3719792
+          ],
+          [
+            126.3689321,
+            33.373054
+          ]
+        ]
+      },
+      "id": "way/42434258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42434261",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "ncat": "국도",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC;bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.2840241,
+            33.249953
+          ],
+          [
+            126.2839913,
+            33.2500448
+          ],
+          [
+            126.2838645,
+            33.2504027
+          ],
+          [
+            126.2835196,
+            33.251376
+          ],
+          [
+            126.2834681,
+            33.2521584
+          ],
+          [
+            126.2835883,
+            33.2528331
+          ],
+          [
+            126.2836179,
+            33.2530949
+          ],
+          [
+            126.2837568,
+            33.2534545
+          ],
+          [
+            126.283973,
+            33.2538698
+          ],
+          [
+            126.2841178,
+            33.2540727
+          ],
+          [
+            126.284644,
+            33.2546275
+          ],
+          [
+            126.28556,
+            33.25558
+          ],
+          [
+            126.2868155,
+            33.2567089
+          ],
+          [
+            126.2881802,
+            33.2581516
+          ],
+          [
+            126.2898024,
+            33.2601325
+          ],
+          [
+            126.2903518,
+            33.2608717
+          ],
+          [
+            126.2915191,
+            33.2623789
+          ],
+          [
+            126.2922057,
+            33.2631109
+          ],
+          [
+            126.2950894,
+            33.2658277
+          ],
+          [
+            126.2958621,
+            33.2665557
+          ],
+          [
+            126.29908,
+            33.27013
+          ],
+          [
+            126.30084,
+            33.27215
+          ],
+          [
+            126.3013896,
+            33.2726197
+          ],
+          [
+            126.3019303,
+            33.2729857
+          ],
+          [
+            126.3024882,
+            33.2732727
+          ],
+          [
+            126.3030461,
+            33.2734808
+          ],
+          [
+            126.3035439,
+            33.2736315
+          ],
+          [
+            126.3039515,
+            33.2737625
+          ],
+          [
+            126.3050505,
+            33.273988
+          ],
+          [
+            126.307985,
+            33.2745561
+          ],
+          [
+            126.308289,
+            33.2746185
+          ],
+          [
+            126.3089956,
+            33.2747491
+          ],
+          [
+            126.3096968,
+            33.2748787
+          ],
+          [
+            126.3104529,
+            33.2750202
+          ],
+          [
+            126.3112287,
+            33.2751702
+          ],
+          [
+            126.3113488,
+            33.2751899
+          ],
+          [
+            126.311517,
+            33.2752256
+          ],
+          [
+            126.3121476,
+            33.2753953
+          ],
+          [
+            126.3123876,
+            33.2754779
+          ],
+          [
+            126.3127239,
+            33.2756171
+          ],
+          [
+            126.3129294,
+            33.2757139
+          ],
+          [
+            126.3132784,
+            33.2759034
+          ],
+          [
+            126.3135047,
+            33.2760376
+          ],
+          [
+            126.3137374,
+            33.2761894
+          ],
+          [
+            126.3139074,
+            33.2763107
+          ],
+          [
+            126.3141733,
+            33.2765197
+          ],
+          [
+            126.3142731,
+            33.2766013
+          ],
+          [
+            126.3143709,
+            33.2766813
+          ],
+          [
+            126.3151053,
+            33.2772481
+          ],
+          [
+            126.3169764,
+            33.2787909
+          ],
+          [
+            126.3175343,
+            33.2792357
+          ],
+          [
+            126.3189591,
+            33.2804412
+          ],
+          [
+            126.3196114,
+            33.2810583
+          ],
+          [
+            126.3198089,
+            33.2813094
+          ],
+          [
+            126.3202466,
+            33.2820198
+          ],
+          [
+            126.3205127,
+            33.2826512
+          ],
+          [
+            126.3206156,
+            33.2829249
+          ],
+          [
+            126.3207959,
+            33.2834046
+          ],
+          [
+            126.3209933,
+            33.2838782
+          ],
+          [
+            126.3211049,
+            33.2842226
+          ],
+          [
+            126.3212336,
+            33.2845311
+          ],
+          [
+            126.3212738,
+            33.2846375
+          ],
+          [
+            126.3215856,
+            33.2854639
+          ],
+          [
+            126.3217057,
+            33.2856935
+          ],
+          [
+            126.3222121,
+            33.2864253
+          ],
+          [
+            126.3227271,
+            33.2870065
+          ],
+          [
+            126.3238897,
+            33.2881114
+          ],
+          [
+            126.3241691,
+            33.2883769
+          ],
+          [
+            126.3243205,
+            33.2885421
+          ]
+        ]
+      },
+      "id": "way/42434261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42434264",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC;bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3508219,
+            33.3213132
+          ],
+          [
+            126.3512746,
+            33.3224246
+          ],
+          [
+            126.3518051,
+            33.3237111
+          ],
+          [
+            126.3522703,
+            33.3248502
+          ],
+          [
+            126.3525509,
+            33.3255528
+          ],
+          [
+            126.3532494,
+            33.3272425
+          ],
+          [
+            126.3535519,
+            33.3280023
+          ],
+          [
+            126.354486,
+            33.3302957
+          ],
+          [
+            126.3547125,
+            33.330972
+          ],
+          [
+            126.3548789,
+            33.331572
+          ],
+          [
+            126.3549825,
+            33.3320486
+          ],
+          [
+            126.3550734,
+            33.3325233
+          ],
+          [
+            126.355268,
+            33.3335988
+          ],
+          [
+            126.3554862,
+            33.3348432
+          ],
+          [
+            126.3557553,
+            33.3363682
+          ],
+          [
+            126.3559252,
+            33.3373309
+          ],
+          [
+            126.3563072,
+            33.3395379
+          ],
+          [
+            126.3566,
+            33.3411485
+          ],
+          [
+            126.3567632,
+            33.3420901
+          ]
+        ]
+      },
+      "id": "way/42434264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75607019",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3504175,
+            33.3203073
+          ],
+          [
+            126.3506758,
+            33.3209406
+          ]
+        ]
+      },
+      "id": "way/75607019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75607021",
+        "bridge": "yes",
+        "bridge:name": "제1동광교 (Je 1 Donggwanggyo)",
+        "bridge:name:en": "Je 1 Donggwanggyo",
+        "bridge:name:ko-Latn": "Je 1 Donggwanggyo",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제1동광교",
+        "name:en": "Je 1 Donggwang Bridge",
+        "name:ko": "제1동광교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3506758,
+            33.3209406
+          ],
+          [
+            126.3508219,
+            33.3213132
+          ]
+        ]
+      },
+      "id": "way/75607021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045061",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4083616,
+            33.4227895
+          ],
+          [
+            126.4084709,
+            33.422979
+          ]
+        ]
+      },
+      "id": "way/96045061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045068",
+        "bridge": "yes",
+        "bridge:name": "제6광령교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제6광령교",
+        "name:en": "Je 6 Gwangnyeong Bridge",
+        "name:ko": "제6광령교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.431785,
+            33.443705
+          ],
+          [
+            126.4315342,
+            33.4434593
+          ]
+        ]
+      },
+      "id": "way/96045068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045073",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4239244,
+            33.4365724
+          ],
+          [
+            126.4234481,
+            33.4362032
+          ],
+          [
+            126.4222116,
+            33.4352276
+          ],
+          [
+            126.4215923,
+            33.4347238
+          ],
+          [
+            126.4206318,
+            33.4339747
+          ],
+          [
+            126.4203382,
+            33.4337534
+          ]
+        ]
+      },
+      "id": "way/96045073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045074",
+        "bridge": "yes",
+        "bridge:name": "제2고성교 (Je 2 Goseonggyo)",
+        "bridge:name:en": "Je 2 Goseonggyo",
+        "bridge:name:ko-Latn": "Je 2 Goseonggyo",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제2고성교",
+        "name:en": "Je 2 Goseong Bridge",
+        "name:ko": "제2고성교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.427346,
+            33.4389694
+          ],
+          [
+            126.4271633,
+            33.4388211
+          ]
+        ]
+      },
+      "id": "way/96045074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045081",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4315342,
+            33.4434593
+          ],
+          [
+            126.4310091,
+            33.4428825
+          ],
+          [
+            126.4298826,
+            33.4415381
+          ],
+          [
+            126.42957,
+            33.4411847
+          ],
+          [
+            126.4287045,
+            33.440158
+          ],
+          [
+            126.4280537,
+            33.4395569
+          ],
+          [
+            126.4275749,
+            33.4391379
+          ],
+          [
+            126.427346,
+            33.4389694
+          ]
+        ]
+      },
+      "id": "way/96045081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045085",
+        "bridge": "yes",
+        "bridge:name": "제3고성교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제3고성교",
+        "name:en": "Je 3 Goseong Bridge",
+        "name:ko": "제3고성교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.424119,
+            33.4367236
+          ],
+          [
+            126.4239244,
+            33.4365724
+          ]
+        ]
+      },
+      "id": "way/96045085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045086",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4271633,
+            33.4388211
+          ],
+          [
+            126.4267796,
+            33.4385365
+          ],
+          [
+            126.4256198,
+            33.4377608
+          ],
+          [
+            126.4244435,
+            33.4369653
+          ],
+          [
+            126.424119,
+            33.4367236
+          ]
+        ]
+      },
+      "id": "way/96045086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045093",
+        "bridge": "yes",
+        "bridge:name": "제6광령교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제6광령교",
+        "name:en": "Je 6 Gwangnyeong Bridge",
+        "name:ko": "제6광령교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.431609,
+            33.4433846
+          ],
+          [
+            126.4318688,
+            33.443636
+          ]
+        ]
+      },
+      "id": "way/96045093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045100",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4274037,
+            33.4388961
+          ],
+          [
+            126.4276393,
+            33.4390778
+          ],
+          [
+            126.4281241,
+            33.439486
+          ],
+          [
+            126.4287636,
+            33.4400871
+          ],
+          [
+            126.4292438,
+            33.4405889
+          ],
+          [
+            126.4296824,
+            33.4411362
+          ],
+          [
+            126.4299552,
+            33.4414709
+          ],
+          [
+            126.4307316,
+            33.4424053
+          ],
+          [
+            126.4310817,
+            33.4428191
+          ],
+          [
+            126.431609,
+            33.4433846
+          ]
+        ]
+      },
+      "id": "way/96045100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045101",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.424187,
+            33.4366561
+          ],
+          [
+            126.4245012,
+            33.4368884
+          ],
+          [
+            126.4268462,
+            33.4384707
+          ],
+          [
+            126.4272232,
+            33.4387479
+          ]
+        ]
+      },
+      "id": "way/96045101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045102",
+        "bridge": "yes",
+        "bridge:name": "제2고성교 (Je 2 Goseonggyo)",
+        "bridge:name:en": "Je 2 Goseonggyo",
+        "bridge:name:ko-Latn": "Je 2 Goseonggyo",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제2고성교",
+        "name:en": "Je 2 Goseong Bridge",
+        "name:ko": "제2고성교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4272232,
+            33.4387479
+          ],
+          [
+            126.4274037,
+            33.4388961
+          ]
+        ]
+      },
+      "id": "way/96045102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045111",
+        "bridge": "yes",
+        "bridge:name": "제3고성교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "제3고성교",
+        "name:en": "Je 3 Goseong Bridge",
+        "name:ko": "제3고성교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4239905,
+            33.4364951
+          ],
+          [
+            126.424187,
+            33.4366561
+          ]
+        ]
+      },
+      "id": "way/96045111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045129",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4083799,
+            33.423031
+          ],
+          [
+            126.4082531,
+            33.4228248
+          ]
+        ]
+      },
+      "id": "way/96045129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045142",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4082531,
+            33.4228248
+          ],
+          [
+            126.4079466,
+            33.4223034
+          ],
+          [
+            126.4076818,
+            33.4218502
+          ],
+          [
+            126.4073856,
+            33.4213801
+          ],
+          [
+            126.4070737,
+            33.4209212
+          ],
+          [
+            126.4067285,
+            33.42052
+          ],
+          [
+            126.4064866,
+            33.4201992
+          ],
+          [
+            126.4058617,
+            33.4194694
+          ],
+          [
+            126.4055365,
+            33.4191287
+          ],
+          [
+            126.4049767,
+            33.4186797
+          ],
+          [
+            126.4042956,
+            33.4181151
+          ],
+          [
+            126.4035998,
+            33.4175647
+          ],
+          [
+            126.4015792,
+            33.4163026
+          ],
+          [
+            126.3986774,
+            33.4144036
+          ],
+          [
+            126.3973563,
+            33.4135363
+          ],
+          [
+            126.3967917,
+            33.4131681
+          ]
+        ]
+      },
+      "id": "way/96045142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045144",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3968746,
+            33.4131064
+          ],
+          [
+            126.3974192,
+            33.4134756
+          ],
+          [
+            126.3987583,
+            33.4143446
+          ],
+          [
+            126.3996596,
+            33.4149322
+          ],
+          [
+            126.4016494,
+            33.4162405
+          ],
+          [
+            126.4026593,
+            33.4168628
+          ],
+          [
+            126.4036524,
+            33.4174856
+          ],
+          [
+            126.4046019,
+            33.4181882
+          ],
+          [
+            126.4050805,
+            33.4185753
+          ],
+          [
+            126.4056064,
+            33.4190538
+          ],
+          [
+            126.4059655,
+            33.419421
+          ],
+          [
+            126.4065938,
+            33.4201383
+          ],
+          [
+            126.4071526,
+            33.4208519
+          ],
+          [
+            126.4074757,
+            33.4213295
+          ],
+          [
+            126.4077719,
+            33.4218034
+          ],
+          [
+            126.4083616,
+            33.4227895
+          ]
+        ]
+      },
+      "id": "way/96045144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96045146",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4318688,
+            33.443636
+          ],
+          [
+            126.4322122,
+            33.4439674
+          ],
+          [
+            126.4332855,
+            33.4449064
+          ],
+          [
+            126.433523,
+            33.4451063
+          ],
+          [
+            126.434495,
+            33.4459247
+          ],
+          [
+            126.4361482,
+            33.4473809
+          ],
+          [
+            126.4370795,
+            33.4483114
+          ],
+          [
+            126.4378357,
+            33.4491634
+          ],
+          [
+            126.4384394,
+            33.4499629
+          ],
+          [
+            126.4390363,
+            33.4508204
+          ],
+          [
+            126.4395144,
+            33.4514848
+          ],
+          [
+            126.4407395,
+            33.4533855
+          ],
+          [
+            126.4423776,
+            33.4558007
+          ],
+          [
+            126.4427995,
+            33.4563754
+          ],
+          [
+            126.4433605,
+            33.4570569
+          ],
+          [
+            126.4439485,
+            33.4576822
+          ],
+          [
+            126.4446775,
+            33.4583597
+          ],
+          [
+            126.4449698,
+            33.458605
+          ],
+          [
+            126.4456321,
+            33.4591338
+          ],
+          [
+            126.4462074,
+            33.4595296
+          ],
+          [
+            126.4465952,
+            33.4598227
+          ],
+          [
+            126.4467578,
+            33.4599319
+          ]
+        ]
+      },
+      "id": "way/96045146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199546995",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3423262,
+            33.306144
+          ],
+          [
+            126.3420282,
+            33.3056796
+          ],
+          [
+            126.3416046,
+            33.3051333
+          ],
+          [
+            126.34073,
+            33.30415
+          ],
+          [
+            126.340158,
+            33.3035798
+          ],
+          [
+            126.3395575,
+            33.3030502
+          ],
+          [
+            126.3389263,
+            33.3025628
+          ],
+          [
+            126.3384824,
+            33.3022213
+          ]
+        ]
+      },
+      "id": "way/199546995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199546996",
+        "bridge": "yes",
+        "bridge:name": "제2봉성교",
+        "bridge:name:ko": "제2봉성교",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.359627,
+            33.3521396
+          ],
+          [
+            126.35952,
+            33.3518247
+          ]
+        ]
+      },
+      "id": "way/199546996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199546997",
+        "bridge": "yes",
+        "bridge:name": "제4동광교 (Je 4 Donggwanggyo)",
+        "bridge:name:en": "Je 4 Donggwanggyo",
+        "bridge:name:ko-Latn": "Je 4 Donggwanggyo",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제4동광교",
+        "name:en": "Je 4 Donggwang Bridge",
+        "name:ko": "제4동광교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3339194,
+            33.2991195
+          ],
+          [
+            126.3335636,
+            33.2988058
+          ]
+        ]
+      },
+      "id": "way/199546997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199546998",
+        "bridge": "yes",
+        "bridge:name": "경마장교",
+        "highway": "secondary",
+        "lanes": "4",
+        "layer": "1",
+        "name": "경마장교",
+        "name:en": "Gyeongmajang Bridge",
+        "name:ko": "경마장교",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:bridge": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3967917,
+            33.4131681
+          ],
+          [
+            126.3965027,
+            33.4129774
+          ]
+        ]
+      },
+      "id": "way/199546998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199546999",
+        "bridge": "yes",
+        "bridge:name": "제1동광교 (Je 1 Donggwanggyo)",
+        "bridge:name:en": "Je 1 Donggwanggyo",
+        "bridge:name:ko-Latn": "Je 1 Donggwanggyo",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제1동광교",
+        "name:en": "Je 1 Donggwang Bridge",
+        "name:ko": "제1동광교",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3506908,
+            33.3212574
+          ],
+          [
+            126.3505436,
+            33.3208755
+          ]
+        ]
+      },
+      "id": "way/199546999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547000",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3965027,
+            33.4129774
+          ],
+          [
+            126.3944888,
+            33.4116435
+          ],
+          [
+            126.3928909,
+            33.4105007
+          ],
+          [
+            126.3898425,
+            33.4082644
+          ],
+          [
+            126.3891096,
+            33.4077751
+          ],
+          [
+            126.3887242,
+            33.4075393
+          ],
+          [
+            126.3884152,
+            33.4073541
+          ],
+          [
+            126.3874775,
+            33.4068524
+          ],
+          [
+            126.3865973,
+            33.4064123
+          ]
+        ]
+      },
+      "id": "way/199547000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547054",
+        "bridge": "yes",
+        "bridge:name": "제1유수암교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4201817,
+            33.4335056
+          ],
+          [
+            126.4204205,
+            33.4336891
+          ]
+        ]
+      },
+      "id": "way/199547054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547057",
+        "bridge": "yes",
+        "bridge:name": "제1유수암교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4203382,
+            33.4337534
+          ],
+          [
+            126.4201063,
+            33.4335763
+          ]
+        ]
+      },
+      "id": "way/199547057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547065",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4204205,
+            33.4336891
+          ],
+          [
+            126.420703,
+            33.4339034
+          ],
+          [
+            126.4239905,
+            33.4364951
+          ]
+        ]
+      },
+      "id": "way/199547065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547073",
+        "bridge": "yes",
+        "bridge:name": "제4동광교 (Je 4 Donggwanggyo)",
+        "bridge:name:en": "Je 4 Donggwanggyo",
+        "bridge:name:ko-Latn": "Je 4 Donggwanggyo",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제4동광교",
+        "name:en": "Je 4 Donggwang Bridge",
+        "name:ko": "제4동광교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:bridge": "mp2osm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3335658,
+            33.298693
+          ],
+          [
+            126.3338846,
+            33.2989617
+          ]
+        ]
+      },
+      "id": "way/199547073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199547074",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3338846,
+            33.2989617
+          ],
+          [
+            126.3343504,
+            33.2993704
+          ],
+          [
+            126.3347394,
+            33.2996828
+          ],
+          [
+            126.3351785,
+            33.3000185
+          ],
+          [
+            126.3355988,
+            33.3003226
+          ],
+          [
+            126.3361384,
+            33.3006797
+          ],
+          [
+            126.3369299,
+            33.3011557
+          ],
+          [
+            126.3371589,
+            33.3012934
+          ],
+          [
+            126.3373372,
+            33.301405
+          ],
+          [
+            126.3379444,
+            33.3017789
+          ],
+          [
+            126.3385691,
+            33.3021561
+          ]
+        ]
+      },
+      "id": "way/199547074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277823803",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3709878,
+            33.3805155
+          ],
+          [
+            126.3709004,
+            33.3802009
+          ]
+        ]
+      },
+      "id": "way/277823803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277823804",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3709004,
+            33.3802009
+          ],
+          [
+            126.3702313,
+            33.3780488
+          ],
+          [
+            126.3700094,
+            33.3773351
+          ],
+          [
+            126.3695249,
+            33.375742
+          ],
+          [
+            126.3691931,
+            33.374622
+          ],
+          [
+            126.3689787,
+            33.3737942
+          ],
+          [
+            126.36886,
+            33.3732015
+          ]
+        ]
+      },
+      "id": "way/277823804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277823805",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3709764,
+            33.3801061
+          ],
+          [
+            126.3710847,
+            33.3804736
+          ]
+        ]
+      },
+      "id": "way/277823805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277823806",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3710847,
+            33.3804736
+          ],
+          [
+            126.3715816,
+            33.3820738
+          ],
+          [
+            126.3721856,
+            33.3840513
+          ],
+          [
+            126.3724069,
+            33.3848849
+          ],
+          [
+            126.3724899,
+            33.3852311
+          ],
+          [
+            126.37261,
+            33.3857773
+          ],
+          [
+            126.3727995,
+            33.3866925
+          ],
+          [
+            126.3730161,
+            33.387741
+          ],
+          [
+            126.3732401,
+            33.3885741
+          ],
+          [
+            126.3735301,
+            33.3893912
+          ],
+          [
+            126.3741384,
+            33.3907338
+          ],
+          [
+            126.3745866,
+            33.3915403
+          ],
+          [
+            126.3753001,
+            33.3928775
+          ],
+          [
+            126.3774768,
+            33.3968191
+          ],
+          [
+            126.3778954,
+            33.397594
+          ],
+          [
+            126.3790045,
+            33.3996274
+          ]
+        ]
+      },
+      "id": "way/277823806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282206042",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.35952,
+            33.3518247
+          ],
+          [
+            126.3586814,
+            33.3492295
+          ],
+          [
+            126.3586566,
+            33.3491493
+          ],
+          [
+            126.3583571,
+            33.3482673
+          ],
+          [
+            126.3578386,
+            33.3466582
+          ],
+          [
+            126.3573972,
+            33.3452388
+          ],
+          [
+            126.3571024,
+            33.3441368
+          ],
+          [
+            126.3568558,
+            33.3430717
+          ],
+          [
+            126.3566575,
+            33.3420981
+          ]
+        ]
+      },
+      "id": "way/282206042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282206054",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3567632,
+            33.3420901
+          ],
+          [
+            126.3569387,
+            33.3429893
+          ],
+          [
+            126.3572079,
+            33.3441225
+          ],
+          [
+            126.3575017,
+            33.345229
+          ],
+          [
+            126.3579008,
+            33.3464875
+          ],
+          [
+            126.3579423,
+            33.3466438
+          ],
+          [
+            126.3584622,
+            33.3482589
+          ],
+          [
+            126.3587547,
+            33.3491361
+          ],
+          [
+            126.3587812,
+            33.3492182
+          ],
+          [
+            126.359466,
+            33.3513709
+          ],
+          [
+            126.3596149,
+            33.351778
+          ]
+        ]
+      },
+      "id": "way/282206054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282206579",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3566575,
+            33.3420981
+          ],
+          [
+            126.3564996,
+            33.3411533
+          ],
+          [
+            126.3562047,
+            33.339552
+          ],
+          [
+            126.3558239,
+            33.3373358
+          ],
+          [
+            126.3553071,
+            33.3344394
+          ],
+          [
+            126.354968,
+            33.3325312
+          ],
+          [
+            126.3548837,
+            33.3320562
+          ],
+          [
+            126.3547699,
+            33.3315609
+          ],
+          [
+            126.3546118,
+            33.3309951
+          ],
+          [
+            126.3543825,
+            33.3303192
+          ],
+          [
+            126.3534345,
+            33.3279985
+          ],
+          [
+            126.3524506,
+            33.3255711
+          ],
+          [
+            126.3521771,
+            33.3248825
+          ],
+          [
+            126.3517,
+            33.3237226
+          ],
+          [
+            126.3511747,
+            33.3224548
+          ],
+          [
+            126.3508027,
+            33.3215409
+          ],
+          [
+            126.3506908,
+            33.3212574
+          ]
+        ]
+      },
+      "id": "way/282206579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282206580",
+        "bridge": "yes",
+        "bridge:name": "제2봉성교",
+        "bridge:name:ko": "제2봉성교",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3596149,
+            33.351778
+          ],
+          [
+            126.3597154,
+            33.3520878
+          ]
+        ]
+      },
+      "id": "way/282206580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282206582",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3688287,
+            33.3730591
+          ],
+          [
+            126.3686577,
+            33.3719623
+          ],
+          [
+            126.3685083,
+            33.370766
+          ],
+          [
+            126.3684314,
+            33.3700868
+          ],
+          [
+            126.3683211,
+            33.3693011
+          ],
+          [
+            126.3681659,
+            33.3682825
+          ],
+          [
+            126.368032,
+            33.3677094
+          ],
+          [
+            126.3679022,
+            33.3672442
+          ],
+          [
+            126.3677083,
+            33.3665925
+          ],
+          [
+            126.3673975,
+            33.3658128
+          ],
+          [
+            126.3671905,
+            33.3653777
+          ],
+          [
+            126.367087,
+            33.3651561
+          ],
+          [
+            126.3669653,
+            33.3649236
+          ],
+          [
+            126.3666927,
+            33.3644791
+          ],
+          [
+            126.3663601,
+            33.3639239
+          ],
+          [
+            126.3660848,
+            33.3635323
+          ],
+          [
+            126.3650314,
+            33.3620018
+          ],
+          [
+            126.3637867,
+            33.3601969
+          ],
+          [
+            126.3631669,
+            33.359298
+          ],
+          [
+            126.3627155,
+            33.3586484
+          ],
+          [
+            126.3624081,
+            33.3581954
+          ],
+          [
+            126.3620414,
+            33.3576549
+          ],
+          [
+            126.3613799,
+            33.3565493
+          ],
+          [
+            126.3609111,
+            33.3556451
+          ],
+          [
+            126.3605629,
+            33.3548729
+          ],
+          [
+            126.3605351,
+            33.3547882
+          ],
+          [
+            126.3601813,
+            33.3538656
+          ],
+          [
+            126.3598626,
+            33.3529068
+          ],
+          [
+            126.359627,
+            33.3521396
+          ]
+        ]
+      },
+      "id": "way/282206582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293050",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "4",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3865973,
+            33.4064123
+          ],
+          [
+            126.386369,
+            33.4062965
+          ]
+        ]
+      },
+      "id": "way/288293050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293055",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4467252,
+            33.4600026
+          ],
+          [
+            126.4465285,
+            33.4598693
+          ],
+          [
+            126.4460746,
+            33.4595267
+          ],
+          [
+            126.445577,
+            33.4592072
+          ],
+          [
+            126.4448834,
+            33.4586527
+          ],
+          [
+            126.4446032,
+            33.4584189
+          ],
+          [
+            126.4438727,
+            33.4577427
+          ],
+          [
+            126.4432835,
+            33.4571166
+          ],
+          [
+            126.4427247,
+            33.4564407
+          ],
+          [
+            126.4422849,
+            33.4558379
+          ],
+          [
+            126.4416588,
+            33.4549149
+          ],
+          [
+            126.4389659,
+            33.4508894
+          ],
+          [
+            126.4383533,
+            33.4500038
+          ],
+          [
+            126.4377542,
+            33.4492212
+          ],
+          [
+            126.4370204,
+            33.4483824
+          ],
+          [
+            126.4360801,
+            33.447448
+          ],
+          [
+            126.4349213,
+            33.4464361
+          ],
+          [
+            126.4332545,
+            33.4450542
+          ],
+          [
+            126.4321486,
+            33.4440477
+          ],
+          [
+            126.431785,
+            33.443705
+          ]
+        ]
+      },
+      "id": "way/288293055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293061",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.386369,
+            33.4062965
+          ],
+          [
+            126.384929,
+            33.405571
+          ],
+          [
+            126.384092,
+            33.4051044
+          ],
+          [
+            126.3837391,
+            33.404882
+          ],
+          [
+            126.3830294,
+            33.4043565
+          ],
+          [
+            126.3825763,
+            33.4040093
+          ],
+          [
+            126.382132,
+            33.4036361
+          ],
+          [
+            126.3813785,
+            33.4029451
+          ],
+          [
+            126.3810519,
+            33.4026023
+          ],
+          [
+            126.3807376,
+            33.4022678
+          ],
+          [
+            126.380262,
+            33.4017033
+          ],
+          [
+            126.379805,
+            33.401117
+          ],
+          [
+            126.3793944,
+            33.4004898
+          ],
+          [
+            126.3790126,
+            33.399852
+          ]
+        ]
+      },
+      "id": "way/288293061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293070",
+        "bridge": "yes",
+        "bridge:name": "경마장교",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "경마장교",
+        "name:en": "Gyeongmajang Bridge",
+        "name:ko": "경마장교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC",
+        "source:bridge": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.396551,
+            33.4128985
+          ],
+          [
+            126.3968746,
+            33.4131064
+          ]
+        ]
+      },
+      "id": "way/288293070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293073",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.386418,
+            33.4062215
+          ],
+          [
+            126.3866537,
+            33.406341
+          ]
+        ]
+      },
+      "id": "way/288293073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288293078",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3866537,
+            33.406341
+          ],
+          [
+            126.3875284,
+            33.406781
+          ],
+          [
+            126.3884775,
+            33.4072847
+          ],
+          [
+            126.3891666,
+            33.4077052
+          ],
+          [
+            126.3899123,
+            33.4081982
+          ],
+          [
+            126.392955,
+            33.4104331
+          ],
+          [
+            126.3945606,
+            33.4115781
+          ],
+          [
+            126.396551,
+            33.4128985
+          ]
+        ]
+      },
+      "id": "way/288293078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289999719",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.36886,
+            33.3732015
+          ],
+          [
+            126.3688287,
+            33.3730591
+          ]
+        ]
+      },
+      "id": "way/289999719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289999720",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3689321,
+            33.373054
+          ],
+          [
+            126.3689587,
+            33.3731902
+          ]
+        ]
+      },
+      "id": "way/289999720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289999721",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3689587,
+            33.3731902
+          ],
+          [
+            126.3690871,
+            33.3737923
+          ],
+          [
+            126.3692983,
+            33.3746033
+          ],
+          [
+            126.3694714,
+            33.3751638
+          ],
+          [
+            126.3696241,
+            33.3757265
+          ],
+          [
+            126.3701146,
+            33.377316
+          ],
+          [
+            126.3703097,
+            33.3779076
+          ],
+          [
+            126.3709764,
+            33.3801061
+          ]
+        ]
+      },
+      "id": "way/289999721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290487118",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3791168,
+            33.3998296
+          ],
+          [
+            126.3794936,
+            33.4004595
+          ],
+          [
+            126.379904,
+            33.4010741
+          ],
+          [
+            126.3803615,
+            33.4016673
+          ],
+          [
+            126.380822,
+            33.4022139
+          ],
+          [
+            126.3811298,
+            33.4025423
+          ],
+          [
+            126.3813389,
+            33.4027498
+          ],
+          [
+            126.3822101,
+            33.4035753
+          ],
+          [
+            126.3826582,
+            33.4039449
+          ],
+          [
+            126.3830998,
+            33.4042876
+          ],
+          [
+            126.3835565,
+            33.4046346
+          ],
+          [
+            126.3843313,
+            33.4051237
+          ],
+          [
+            126.3849994,
+            33.4054989
+          ],
+          [
+            126.386418,
+            33.4062215
+          ]
+        ]
+      },
+      "id": "way/290487118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290487121",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3789029,
+            33.3996541
+          ],
+          [
+            126.3777984,
+            33.3976199
+          ],
+          [
+            126.3774239,
+            33.3969531
+          ],
+          [
+            126.3752027,
+            33.3929038
+          ],
+          [
+            126.3741046,
+            33.3909231
+          ],
+          [
+            126.3734238,
+            33.3894014
+          ],
+          [
+            126.3731397,
+            33.3885819
+          ],
+          [
+            126.3729158,
+            33.3877472
+          ],
+          [
+            126.3726923,
+            33.3866793
+          ],
+          [
+            126.3725313,
+            33.3858942
+          ],
+          [
+            126.3723508,
+            33.3850911
+          ],
+          [
+            126.3723045,
+            33.3848861
+          ],
+          [
+            126.3720822,
+            33.3840657
+          ],
+          [
+            126.3715857,
+            33.382469
+          ],
+          [
+            126.3714006,
+            33.3818418
+          ],
+          [
+            126.3709878,
+            33.3805155
+          ]
+        ]
+      },
+      "id": "way/290487121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290487123",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3790045,
+            33.3996274
+          ],
+          [
+            126.3791168,
+            33.3998296
+          ]
+        ]
+      },
+      "id": "way/290487123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290487124",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3790126,
+            33.399852
+          ],
+          [
+            126.3789029,
+            33.3996541
+          ]
+        ]
+      },
+      "id": "way/290487124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798901",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "noname": "yes",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3502807,
+            33.3202174
+          ],
+          [
+            126.349405,
+            33.3180789
+          ],
+          [
+            126.3489256,
+            33.3169033
+          ],
+          [
+            126.3486106,
+            33.3162324
+          ],
+          [
+            126.3483422,
+            33.3157073
+          ],
+          [
+            126.3480419,
+            33.3151731
+          ],
+          [
+            126.3468084,
+            33.3131928
+          ],
+          [
+            126.3452334,
+            33.3106676
+          ],
+          [
+            126.3450869,
+            33.310419
+          ]
+        ]
+      },
+      "id": "way/290798901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798927",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC;bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3302732,
+            33.2945513
+          ],
+          [
+            126.3308124,
+            33.2953648
+          ],
+          [
+            126.3311905,
+            33.295955
+          ],
+          [
+            126.3314397,
+            33.2963045
+          ],
+          [
+            126.3317093,
+            33.2966508
+          ],
+          [
+            126.332196,
+            33.2972303
+          ],
+          [
+            126.3323283,
+            33.2973976
+          ],
+          [
+            126.3326893,
+            33.2978018
+          ],
+          [
+            126.3330264,
+            33.2981529
+          ],
+          [
+            126.3333896,
+            33.2985151
+          ],
+          [
+            126.3335658,
+            33.298693
+          ]
+        ]
+      },
+      "id": "way/290798927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798928",
+        "bridge": "yes",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제2한창교",
+        "name:en": "Je 2 hanchang Bridge",
+        "name:ko": "제2한창교",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3425756,
+            33.3065208
+          ],
+          [
+            126.3423262,
+            33.306144
+          ]
+        ]
+      },
+      "id": "way/290798928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798929",
+        "bridge": "yes",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3449905,
+            33.3104017
+          ],
+          [
+            126.344801,
+            33.3100887
+          ]
+        ]
+      },
+      "id": "way/290798929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798930",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3432957,
+            33.3054979
+          ],
+          [
+            126.3434941,
+            33.3057135
+          ],
+          [
+            126.3437188,
+            33.3059782
+          ],
+          [
+            126.3440418,
+            33.3063983
+          ],
+          [
+            126.3441745,
+            33.3065996
+          ],
+          [
+            126.3442963,
+            33.3067889
+          ],
+          [
+            126.3444055,
+            33.3069594
+          ],
+          [
+            126.3444921,
+            33.3071034
+          ],
+          [
+            126.3445869,
+            33.3072746
+          ],
+          [
+            126.3446907,
+            33.3074692
+          ],
+          [
+            126.3447529,
+            33.3075974
+          ],
+          [
+            126.3449415,
+            33.3080363
+          ],
+          [
+            126.3450209,
+            33.3082558
+          ],
+          [
+            126.3451003,
+            33.3084798
+          ],
+          [
+            126.3451978,
+            33.3087686
+          ],
+          [
+            126.3452709,
+            33.3090107
+          ],
+          [
+            126.3453648,
+            33.3093561
+          ],
+          [
+            126.3454198,
+            33.3095643
+          ],
+          [
+            126.3454821,
+            33.3098094
+          ],
+          [
+            126.3455488,
+            33.3100326
+          ]
+        ]
+      },
+      "id": "way/290798930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798932",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3469109,
+            33.3131651
+          ],
+          [
+            126.3481355,
+            33.3151372
+          ],
+          [
+            126.3484312,
+            33.3156659
+          ],
+          [
+            126.3487087,
+            33.3161998
+          ],
+          [
+            126.3490181,
+            33.3168695
+          ],
+          [
+            126.3495039,
+            33.3180508
+          ],
+          [
+            126.3503732,
+            33.3201936
+          ]
+        ]
+      },
+      "id": "way/290798932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798933",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3302211,
+            33.2946329
+          ],
+          [
+            126.3296193,
+            33.2938869
+          ],
+          [
+            126.3291031,
+            33.2932671
+          ],
+          [
+            126.3285146,
+            33.2926277
+          ],
+          [
+            126.3274392,
+            33.2916628
+          ],
+          [
+            126.3260595,
+            33.2903386
+          ],
+          [
+            126.3245753,
+            33.2889141
+          ],
+          [
+            126.3242185,
+            33.2885717
+          ]
+        ]
+      },
+      "id": "way/290798933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798934",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.344801,
+            33.3100887
+          ],
+          [
+            126.3446105,
+            33.3097501
+          ],
+          [
+            126.3439001,
+            33.3085968
+          ],
+          [
+            126.3435113,
+            33.3079803
+          ],
+          [
+            126.3431355,
+            33.307401
+          ],
+          [
+            126.3425756,
+            33.3065208
+          ]
+        ]
+      },
+      "id": "way/290798934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798935",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3242185,
+            33.2885717
+          ],
+          [
+            126.3237857,
+            33.2881593
+          ],
+          [
+            126.3231992,
+            33.2876005
+          ],
+          [
+            126.3226485,
+            33.2870757
+          ],
+          [
+            126.3222713,
+            33.2866685
+          ],
+          [
+            126.321942,
+            33.2862434
+          ],
+          [
+            126.3216666,
+            33.2858004
+          ],
+          [
+            126.3214391,
+            33.2853812
+          ],
+          [
+            126.3211636,
+            33.2846641
+          ],
+          [
+            126.3203673,
+            33.2825911
+          ],
+          [
+            126.3201159,
+            33.2820283
+          ],
+          [
+            126.3198045,
+            33.2814894
+          ],
+          [
+            126.3194692,
+            33.2810643
+          ],
+          [
+            126.3186849,
+            33.2803338
+          ],
+          [
+            126.3142971,
+            33.2767391
+          ],
+          [
+            126.3142087,
+            33.2766652
+          ],
+          [
+            126.3141078,
+            33.2765807
+          ],
+          [
+            126.3136724,
+            33.27626
+          ],
+          [
+            126.3134561,
+            33.2761099
+          ],
+          [
+            126.3132305,
+            33.2759728
+          ],
+          [
+            126.3131528,
+            33.2759302
+          ],
+          [
+            126.312972,
+            33.2758311
+          ],
+          [
+            126.3126905,
+            33.2756945
+          ],
+          [
+            126.3123534,
+            33.2755565
+          ],
+          [
+            126.3119288,
+            33.2754202
+          ],
+          [
+            126.3115075,
+            33.2753084
+          ],
+          [
+            126.3112624,
+            33.2752584
+          ],
+          [
+            126.3104309,
+            33.2751105
+          ],
+          [
+            126.3096703,
+            33.274962
+          ],
+          [
+            126.308467,
+            33.2747366
+          ],
+          [
+            126.3082615,
+            33.2746992
+          ],
+          [
+            126.3079634,
+            33.2746387
+          ],
+          [
+            126.3039138,
+            33.273858
+          ]
+        ]
+      },
+      "id": "way/290798935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798936",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC;bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3243205,
+            33.2885421
+          ],
+          [
+            126.3244241,
+            33.2886475
+          ],
+          [
+            126.3247534,
+            33.2889534
+          ],
+          [
+            126.3266667,
+            33.2907301
+          ],
+          [
+            126.328587,
+            33.292572
+          ],
+          [
+            126.3292045,
+            33.2932357
+          ],
+          [
+            126.3297008,
+            33.2938248
+          ],
+          [
+            126.329985,
+            33.2942061
+          ],
+          [
+            126.3302732,
+            33.2945513
+          ]
+        ]
+      },
+      "id": "way/290798936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798937",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3505436,
+            33.3208755
+          ],
+          [
+            126.3503245,
+            33.3203312
+          ]
+        ]
+      },
+      "id": "way/290798937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798938",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3455488,
+            33.3100326
+          ],
+          [
+            126.345676,
+            33.3104205
+          ]
+        ]
+      },
+      "id": "way/290798938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290798939",
+        "bridge": "yes",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "layer": "1",
+        "name": "제1한창교",
+        "name:en": "Je 1 hanchang Bridge",
+        "name:ko": "제1한창교",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3428508,
+            33.3050658
+          ],
+          [
+            126.3432957,
+            33.3054979
+          ]
+        ]
+      },
+      "id": "way/290798939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290801409",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3503245,
+            33.3203312
+          ],
+          [
+            126.3502807,
+            33.3202174
+          ]
+        ]
+      },
+      "id": "way/290801409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290801410",
+        "bridge": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3503732,
+            33.3201936
+          ],
+          [
+            126.3504175,
+            33.3203073
+          ]
+        ]
+      },
+      "id": "way/290801410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392334568",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4201063,
+            33.4335763
+          ],
+          [
+            126.4197353,
+            33.4332784
+          ],
+          [
+            126.4181252,
+            33.4320267
+          ],
+          [
+            126.4171611,
+            33.4313505
+          ],
+          [
+            126.4165073,
+            33.4308525
+          ],
+          [
+            126.4142677,
+            33.429285
+          ],
+          [
+            126.4138616,
+            33.4289891
+          ],
+          [
+            126.4134554,
+            33.4286669
+          ],
+          [
+            126.4126677,
+            33.4279834
+          ],
+          [
+            126.4116399,
+            33.4270313
+          ],
+          [
+            126.4114524,
+            33.4268582
+          ],
+          [
+            126.4109161,
+            33.4263226
+          ],
+          [
+            126.4104246,
+            33.4257738
+          ],
+          [
+            126.4099631,
+            33.4252007
+          ],
+          [
+            126.40914,
+            33.4241366
+          ],
+          [
+            126.4087204,
+            33.4235504
+          ],
+          [
+            126.4083799,
+            33.423031
+          ]
+        ]
+      },
+      "id": "way/392334568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392334569",
+        "highway": "secondary",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "Bing (adjusted)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4084709,
+            33.422979
+          ],
+          [
+            126.4086198,
+            33.4232152
+          ],
+          [
+            126.4087993,
+            33.4234924
+          ],
+          [
+            126.4092256,
+            33.4240768
+          ],
+          [
+            126.4096144,
+            33.4245359
+          ],
+          [
+            126.4105047,
+            33.4257118
+          ],
+          [
+            126.4109895,
+            33.4262568
+          ],
+          [
+            126.4115168,
+            33.4267812
+          ],
+          [
+            126.4117176,
+            33.426984
+          ],
+          [
+            126.4123125,
+            33.4275355
+          ],
+          [
+            126.4127479,
+            33.427927
+          ],
+          [
+            126.4135265,
+            33.4285918
+          ],
+          [
+            126.4139237,
+            33.4289121
+          ],
+          [
+            126.4143232,
+            33.429208
+          ],
+          [
+            126.416565,
+            33.4307773
+          ],
+          [
+            126.4181829,
+            33.4319553
+          ],
+          [
+            126.419839,
+            33.4332456
+          ],
+          [
+            126.4201817,
+            33.4335056
+          ]
+        ]
+      },
+      "id": "way/392334569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592389571",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "source:highway": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3039138,
+            33.273858
+          ],
+          [
+            126.3030277,
+            33.273592
+          ],
+          [
+            126.302405,
+            33.2733465
+          ],
+          [
+            126.3020727,
+            33.2731753
+          ],
+          [
+            126.3018123,
+            33.2730411
+          ],
+          [
+            126.3012315,
+            33.272634
+          ],
+          [
+            126.3006267,
+            33.2720472
+          ],
+          [
+            126.2993993,
+            33.2706521
+          ],
+          [
+            126.2962918,
+            33.2671854
+          ],
+          [
+            126.2948549,
+            33.2657544
+          ],
+          [
+            126.2922084,
+            33.2632756
+          ],
+          [
+            126.2917174,
+            33.2627787
+          ],
+          [
+            126.2914338,
+            33.2624492
+          ],
+          [
+            126.2911247,
+            33.2620901
+          ],
+          [
+            126.2883824,
+            33.2585455
+          ],
+          [
+            126.2878316,
+            33.2579348
+          ],
+          [
+            126.287162,
+            33.2572478
+          ],
+          [
+            126.2869155,
+            33.2569948
+          ],
+          [
+            126.2845565,
+            33.2547076
+          ],
+          [
+            126.2844404,
+            33.2546095
+          ],
+          [
+            126.2843422,
+            33.2545195
+          ],
+          [
+            126.2840895,
+            33.2542092
+          ],
+          [
+            126.2839322,
+            33.2539795
+          ],
+          [
+            126.2838826,
+            33.2538991
+          ],
+          [
+            126.2837961,
+            33.2537376
+          ],
+          [
+            126.2837068,
+            33.2535865
+          ],
+          [
+            126.2836216,
+            33.2534139
+          ],
+          [
+            126.2835416,
+            33.253187
+          ],
+          [
+            126.2834967,
+            33.2530311
+          ],
+          [
+            126.2833949,
+            33.252606
+          ],
+          [
+            126.283347,
+            33.2522168
+          ],
+          [
+            126.283347,
+            33.251855
+          ],
+          [
+            126.283347,
+            33.2517558
+          ],
+          [
+            126.2833949,
+            33.2513965
+          ],
+          [
+            126.2837569,
+            33.2503915
+          ],
+          [
+            126.2837692,
+            33.2503572
+          ],
+          [
+            126.2838234,
+            33.2502068
+          ],
+          [
+            126.2838882,
+            33.2500327
+          ],
+          [
+            126.2839175,
+            33.2499427
+          ]
+        ]
+      },
+      "id": "way/592389571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1216585178",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3384824,
+            33.3022213
+          ],
+          [
+            126.3371075,
+            33.3013681
+          ],
+          [
+            126.3363798,
+            33.3009256
+          ],
+          [
+            126.3360865,
+            33.3007473
+          ],
+          [
+            126.336031,
+            33.3007109
+          ],
+          [
+            126.3355356,
+            33.3003867
+          ],
+          [
+            126.335106,
+            33.3000716
+          ],
+          [
+            126.3346726,
+            33.2997447
+          ],
+          [
+            126.3342784,
+            33.2994249
+          ],
+          [
+            126.3339194,
+            33.2991195
+          ]
+        ]
+      },
+      "id": "way/1216585178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1216585179",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3385691,
+            33.3021561
+          ],
+          [
+            126.3392313,
+            33.3025814
+          ],
+          [
+            126.3395787,
+            33.3027941
+          ],
+          [
+            126.3401084,
+            33.3031222
+          ],
+          [
+            126.3405406,
+            33.3033809
+          ],
+          [
+            126.3407762,
+            33.3035287
+          ],
+          [
+            126.3409575,
+            33.3036506
+          ],
+          [
+            126.3412102,
+            33.3038214
+          ],
+          [
+            126.3414015,
+            33.3039533
+          ],
+          [
+            126.3418067,
+            33.3042339
+          ],
+          [
+            126.3422245,
+            33.3045356
+          ],
+          [
+            126.3425332,
+            33.3047807
+          ],
+          [
+            126.3427218,
+            33.3049444
+          ],
+          [
+            126.3428508,
+            33.3050658
+          ]
+        ]
+      },
+      "id": "way/1216585179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1225727306",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3452334,
+            33.3106676
+          ],
+          [
+            126.3449905,
+            33.3104017
+          ]
+        ]
+      },
+      "id": "way/1225727306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1225727307",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "평화로",
+        "name:el": "Πιόγχουα-ρο",
+        "name:en": "Pyeonghwa-ro",
+        "name:ko": "평화로",
+        "oneway": "yes",
+        "ref": "1135",
+        "review": "no",
+        "source": "NTIC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.345676,
+            33.3104205
+          ],
+          [
+            126.3457913,
+            33.310769
+          ],
+          [
+            126.3458781,
+            33.3109973
+          ],
+          [
+            126.3459699,
+            33.3112255
+          ],
+          [
+            126.3461001,
+            33.3115337
+          ],
+          [
+            126.3462239,
+            33.3117886
+          ],
+          [
+            126.3465173,
+            33.3123621
+          ],
+          [
+            126.3468128,
+            33.3128739
+          ],
+          [
+            126.3469109,
+            33.3131651
+          ]
+        ]
+      },
+      "id": "way/1225727307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327177910",
+        "junction": "yes",
+        "name": "덕수1교차로",
+        "name:en": "Deoksu-1(il) Crossroad",
+        "name:ko": "덕수1교차로"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3039138,
+          33.273858
+        ]
+      },
+      "id": "node/327177910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327178011",
+        "junction": "yes",
+        "name": "서광1교차로",
+        "name:en": "Seogwang 1(il) Crossroad",
+        "name:ko": "서광1교차로"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3242185,
+          33.2885717
+        ]
+      },
+      "id": "node/327178011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327178287",
+        "highway": "motorway_junction",
+        "name": "광평교차로",
+        "name:ko": "광평교차로",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3568558,
+          33.3430717
+        ]
+      },
+      "id": "node/327178287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327178542",
+        "highway": "motorway_junction",
+        "name": "어음1교차로",
+        "name:ko": "어음1교차로",
+        "ref": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3741046,
+          33.3909231
+        ]
+      },
+      "id": "node/327178542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436759008",
+        "highway": "motorway_junction",
+        "name": "광평교차로",
+        "name:ko": "광평교차로",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3535519,
+          33.3280023
+        ]
+      },
+      "id": "node/436759008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436759184",
+        "highway": "motorway_junction",
+        "name": "소길교차로",
+        "name:ko": "소길교차로",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3843313,
+          33.4051237
+        ]
+      },
+      "id": "node/436759184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529781180",
+        "highway": "motorway_junction",
+        "name": "어음1교차로",
+        "name:ko": "어음1교차로",
+        "ref": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.37261,
+          33.3857773
+        ]
+      },
+      "id": "node/529781180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112831517",
+        "highway": "motorway_junction",
+        "name": "광령3교차로",
+        "name:ko": "광령3교차로",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.434495,
+          33.4459247
+        ]
+      },
+      "id": "node/1112831517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112831528",
+        "highway": "motorway_junction",
+        "name": "광령2교차로",
+        "name:ko": "광령2교차로",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4407395,
+          33.4533855
+        ]
+      },
+      "id": "node/1112831528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112831700",
+        "highway": "motorway_junction",
+        "name": "광령2교차로",
+        "name:ko": "광령2교차로",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4448834,
+          33.4586527
+        ]
+      },
+      "id": "node/1112831700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112831758",
+        "highway": "motorway_junction",
+        "name": "광령4교차로",
+        "name:ko": "광령4교차로",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4296824,
+          33.4411362
+        ]
+      },
+      "id": "node/1112831758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112831760",
+        "highway": "motorway_junction",
+        "name": "유수암교차로",
+        "name:ko": "유수암교차로",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4099631,
+          33.4252007
+        ]
+      },
+      "id": "node/1112831760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112832960",
+        "highway": "motorway_junction",
+        "name": "고성교차로",
+        "name:ko": "고성교차로",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4256198,
+          33.4377608
+        ]
+      },
+      "id": "node/1112832960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112833613",
+        "highway": "motorway_junction",
+        "name": "광령4교차로",
+        "name:ko": "광령4교차로",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4332545,
+          33.4450542
+        ]
+      },
+      "id": "node/1112833613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112834173",
+        "highway": "motorway_junction",
+        "name": "고성교차로",
+        "name:ko": "고성교차로",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.419839,
+          33.4332456
+        ]
+      },
+      "id": "node/1112834173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112834359",
+        "highway": "motorway_junction",
+        "name": "유수암교차로",
+        "name:ko": "유수암교차로",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4050805,
+          33.4185753
+        ]
+      },
+      "id": "node/1112834359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2854461449",
+        "junction": "yes",
+        "name": "안성교차로",
+        "name:en": "Anseong Crossroad",
+        "name:ko": "안성교차로"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2839913,
+          33.2500448
+        ]
+      },
+      "id": "node/2854461449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861521693",
+        "highway": "motorway_junction",
+        "name": "봉성교차로",
+        "name:ko": "봉성교차로",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3579008,
+          33.3464875
+        ]
+      },
+      "id": "node/2861521693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861803980",
+        "junction": "yes",
+        "name": "덕수2교차로",
+        "name:en": "Deoksu-2(i) Crossroad",
+        "name:ko": "덕수2교차로"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3112624,
+          33.2752584
+        ]
+      },
+      "id": "node/2861803980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918555138",
+        "highway": "motorway_junction",
+        "name": "렛츠런파크교차로",
+        "name:ko": "렛츠런파크교차로",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3986774,
+          33.4144036
+        ]
+      },
+      "id": "node/2918555138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918604426",
+        "highway": "motorway_junction",
+        "name": "소길교차로",
+        "name:ko": "소길교차로",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3887242,
+          33.4075393
+        ]
+      },
+      "id": "node/2918604426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2935336011",
+        "highway": "motorway_junction",
+        "name": "어음2교차로",
+        "name:ko": "어음2교차로",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3703097,
+          33.3779076
+        ]
+      },
+      "id": "node/2935336011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2935336037",
+        "highway": "motorway_junction",
+        "name": "어음2교차로",
+        "name:ko": "어음2교차로",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3715857,
+          33.382469
+        ]
+      },
+      "id": "node/2935336037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940183340",
+        "highway": "motorway_junction",
+        "name": "원동교차로",
+        "name:ko": "원동교차로",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3774768,
+          33.3968191
+        ]
+      },
+      "id": "node/2940183340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940183416",
+        "highway": "motorway_junction",
+        "name": "원동교차로",
+        "name:ko": "원동교차로",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3813785,
+          33.4029451
+        ]
+      },
+      "id": "node/2940183416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2943102404",
+        "highway": "motorway_junction",
+        "name": "동광IC",
+        "name:ko": "동광IC",
+        "ref": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3452334,
+          33.3106676
+        ]
+      },
+      "id": "node/2943102404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2943140811",
+        "highway": "motorway_junction",
+        "name": "동광1교차로",
+        "name:en": "Donggwang-1(il) Crossroad",
+        "name:ko": "동광1교차로",
+        "ref": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3517,
+          33.3237226
+        ]
+      },
+      "id": "node/2943140811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962455326",
+        "highway": "motorway_junction",
+        "name": "새별오름",
+        "name:ko": "새별오름",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3637725,
+          33.3599854
+        ]
+      },
+      "id": "node/2962455326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962459467",
+        "highway": "motorway_junction",
+        "name": "새별오름",
+        "name:ko": "새별오름",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3666927,
+          33.3644791
+        ]
+      },
+      "id": "node/2962459467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949019848",
+        "highway": "motorway_junction",
+        "name": "봉성교차로",
+        "name:ko": "봉성교차로",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3605351,
+          33.3547882
+        ]
+      },
+      "id": "node/3949019848"
+    }
+  ]
+}
